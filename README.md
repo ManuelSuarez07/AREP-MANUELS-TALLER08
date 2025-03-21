@@ -68,8 +68,8 @@ AREP-MANUELS-TALLER08/
 To run the notebooks, open Jupyter Notebook or Google Colab and follow the steps inside each .ipynb file.
 Example of loading an LLM model with LangChain:
 
-![Tutorial LLM_CHAIN](https://drive.google.com/file/d/1VrdTBuNi1MSg0x9wpKxDF0wsRMEwK7Xs/view?usp=drive_link)
-![RagProject](https://drive.google.com/file/d/1DqJJja8gLsgtHS_9jFZhss2qkP0QHxF8/view?usp=drive_link)
+![Tutorial LLM_CHAIN](LLM.png)
+![RagProject](RAG.png)
 
 👤 Author
 Manuel Suárez 🚀
